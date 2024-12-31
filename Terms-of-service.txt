@@ -1,0 +1,41 @@
+# Terms of Service for Yasmine Discord Bot
+Effective Date:
+
+By using the Yasmine Discord Bot (referred to as "the Bot"), you agree to comply with and be bound by the following Terms of Service. If you do not agree with these terms, you may not use the Bot.
+
+1. Acceptance of Terms
+By inviting Yasmine to your Discord server, you acknowledge that you have read and understood these Terms of Service and agree to abide by them. These Terms may be updated or modified at any time, and such changes will be effective immediately upon posting.
+
+2. Bot Usage
+Yasmine is designed to enhance user experience within your Discord server, providing various functions such as [list bot features, e.g., activity tracking, moderation, etc.]. You may use the Bot solely for personal, non-commercial purposes, subject to these Terms.
+
+3. User Responsibilities
+You agree to:
+
+Not use the Bot in any manner that violates applicable laws or regulations.
+Not use the Bot to harass, abuse, or harm others.
+Not attempt to reverse-engineer, decompile, or hack the Bot.
+Ensure your server follows Discord’s Terms of Service and Community Guidelines.
+4. Privacy and Data Collection
+Yasmine may collect certain data related to your server and its users, such as messages, member activity, and server settings, in order to function properly. All collected data will be handled according to [Insert your privacy policy link or a description if you do not have one].
+
+5. Prohibited Activities
+You must not use the Bot for any illegal, abusive, or malicious activities, including but not limited to:
+
+Spamming.
+Exploiting bot vulnerabilities.
+Violating Discord's Terms of Service.
+6. Availability and Downtime
+The Bot may experience occasional downtime due to maintenance, updates, or unforeseen issues. We will make reasonable efforts to notify users of planned downtime. We do not guarantee continuous availability of the Bot.
+
+7. Limitation of Liability
+The Bot is provided "as is" and we make no warranties, express or implied, regarding its functionality, availability, or performance. We are not responsible for any direct, indirect, incidental, or consequential damages arising from the use or inability to use the Bot.
+
+8. Termination
+We reserve the right to suspend or terminate access to the Bot for any user or server at our discretion, especially if you violate these Terms of Service.
+
+9. Indemnification
+You agree to indemnify, defend, and hold harmless the creators of Yasmine and any affiliated parties from any claims, damages, or losses arising from your use of the Bot.
+
+10. Changes to Terms
+We reserve the right to modify or update these Terms of Service at any time. Any changes will be posted on this page, and your continued use of the Bot after such changes constitutes acceptance of the updated Terms.
